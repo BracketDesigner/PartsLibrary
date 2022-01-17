@@ -1,0 +1,14 @@
+#Introduction
+
+I created this repository to hold cad files for COTS (Commercial off the shelf) parts to be used in MY projects. Use them at your own risk. Know the licenses for these parts vary, unless otherwise stated the parts are covered by the corresponding liscense below.
+
+----------------------------------------------------------------
+# McMaster Carr
+Find the license here: https://www.mcmaster.com/termsandconditions
+
+Excerpt
+Use of CAD Models
+
+The CAD models on the McMaster-Carr Properties (“CAD Models”) are being made available to help you decide whether to purchase Products from us. You may download the CAD Models and share them with others in your organization or with third parties acting on behalf of or rendering services to you or your organization (including your data center or cloud service providers), but only for purposes of deciding whether to purchase Products from us or in order to develop design drawings and prototypes for use by you or your organization in connection with a decision regarding whether to purchase Products from us. You shall not use the CAD Models to engage in 3D printing or other fabrication of the objects depicted in the CAD Models for any other purpose, and you shall not otherwise redistribute or make available the CAD Models (or any design drawings or prototypes that incorporate them) to any third parties, including third parties in the business of selling products similar to the Products.
+
+The CAD Models do not contain any technical information other than what is readily observable, specified by industry standards or provided to us by our suppliers. The dimensions and other technical specifications of Products may vary from those shown in the CAD Models, due among other reasons to tolerances associated with manufacturing processes. Manufacturing tolerance information is considered proprietary by many of our suppliers and is not always provided to us. Thus tolerance information may not be reflected in the CAD Models. You acknowledge and agree as follows: (i) your use of the CAD Models is at your own risk and you are solely responsible for any use you make or permit others to make of the CAD Models; (ii) McMaster-Carr makes no representation or warranty (express or implied) with respect to the CAD Models, including but not limited to the accuracy or completeness of Product dimensions or any other technical specifications contained in or accompanying the CAD Models, non-infringement of third-party rights, and quality, suitability, fitness for purpose or title; (iii) McMaster-Carr may terminate or limit your access to the CAD Models for any reason at any time; and (iv) to the fullest extent permitted by law, you shall indemnify us and hold us harmless from and against any and all liabilities, losses, damages, costs and other expenses (including court costs and reasonable attorneys’ fees) resulting from claims asserted by you or others as a result of your use of the CAD Models.
